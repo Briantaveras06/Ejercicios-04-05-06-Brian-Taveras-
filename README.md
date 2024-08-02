@@ -1,4 +1,5 @@
-# Ejercicios-04-05-06-Brian-Taveras-
+# Ejercicios-04-05-06-Brian Nicolás Fajardo Taveras
+2021-1227-
 ```mermaid
 sequenceDiagram
     participant user
